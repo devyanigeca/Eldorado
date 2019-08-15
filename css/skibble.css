@@ -1,0 +1,30 @@
+.back-tile-content{
+    margin: 3%;
+    margin-top: 10%;
+}
+.back-tile-content h2{
+    font-family: 'Roboto', sans-serif;
+    /* font-size: 4px; */
+    font-size: 30px;
+    /* line-height: 30px; */
+    font-weight: 300;
+    color: white;
+}
+.back-tile-content .exec-title {
+    font-family: 'Roboto', sans-serif;
+    /* font-size: 4px; */
+    font-size: 18px;
+    /* line-height: 30px; */
+    font-weight: 300;
+    color: #222426;
+    margin-top: 0;
+}
+.back-tile-content .exec-info {
+    font-family: 'Roboto', sans-serif;
+    /* font-size: 4px; */
+    font-size: 18px;
+    /* line-height: 30px; */
+    font-weight: 300;
+    color: white;
+    margin-top: 0;
+}
